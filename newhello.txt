@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi!
+=======
+hi, you!
+>>>>>>> 71516ea... develop commit for cherry-pick
